@@ -153,3 +153,4 @@ Special thanks to [Ahmed Nagi](https://github.com/nagi1) for all the work he put
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+Research note: SonarQube Cloud source inclusion is configured to analyze PHP files under src/.
