@@ -151,6 +151,6 @@ If you've found a bug regarding security please mail [security@spatie.be](mailto
 Special thanks to [Ahmed Nagi](https://github.com/nagi1) for all the work he put in `v4` and to [Caneco](https://twitter.com/caneco) for the original logo.
 
 ## License
-
+Research note: SonarQube Cloud source inclusion is configured to analyze PHP files under src/.
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 Research note: SonarQube Cloud source inclusion is configured to analyze PHP files under src/.
