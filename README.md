@@ -152,5 +152,7 @@ Special thanks to [Ahmed Nagi](https://github.com/nagi1) for all the work he put
 
 ## License
 Research note: SonarQube Cloud source inclusion is configured to analyze PHP files under src/.
+
+Research setup: SonarQube Cloud repository access verified on 29 October 2026.
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 Research note: SonarQube Cloud source inclusion is configured to analyze PHP files under src/.
